@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NOTAS IPCHILE</string>
+    <string name="activity1_nombre">Nombre: Felipe Orellana Cabrera</string>
+    <string name="activity1_correo">Correo: felipeorellanacabrera@gmail.com</string>
+    <string name="activity1_nombreBtn">Calculador de notas</string>
+    <string name="activity2_titulo">Calculador de notas</string>
+    <string name="activity2_tituloEvaAcum">Evaluaciones Acumulativas</string>
+    <string name="activity2_btnCalcular">Calcular</string>
+    <string name="activity2_btnLimpiar">Limpiar</string>
+    <string name="activity2_btnVolver">Volver</string>
+    <string name="activity2_PromedioFinal">Promedio Final</string>
+    <string name="activity2_Solemnes">Evaluaciones Solemnes</string>
+    <string name="activity2_Promedio">Promedio</string>
+    <string name="activity2_NotaExamen">Nota Examen</string>
+    <string name="activity2_calcularExamen">Promedio Final</string>
+    <string name="activity1_titulo">Información Personal</string>>
+</resources>
